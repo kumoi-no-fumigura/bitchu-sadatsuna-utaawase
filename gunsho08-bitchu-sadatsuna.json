@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/bitchu-sadatsuna-utaawase",
  "yomi": "びっちゅうのかみさだつなあそんけうたあわせ",
  "category": "歌合",
- "description": null,
+ "description": {
+  "kind": "歌合",
+  "era": "治暦3年（1067）3月15日",
+  "author": "主催 藤原定綱",
+  "desc": "備中守藤原定綱の家で、式部丞基綱が取り仕切って催した歌合。祝・春雨・霞・鶯・弦月・款冬など春の題を番え、勝負を付す。"
+ },
  "editions": [
   {
    "pid": "1879502",
